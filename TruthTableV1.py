@@ -1,6 +1,6 @@
 import os
 import sys
-from TruthTalLine import *
+from TruthTalLineV1 import *
 
 print("\n\n")
 print("""
